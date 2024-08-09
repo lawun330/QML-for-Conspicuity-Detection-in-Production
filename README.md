@@ -46,7 +46,7 @@ Team Member 2:
 With limited internet access and time, we finished three of the five project deliverables:
 1. We finish the codebook sections “Introduction to Quantum Computing”, “Single-Qubit
  Gates” and “Circuits with Many Qubits” from the [PennyLane Codebook](https://pennylane.ai/codebook/). The repository contains the corresponding notebooks for this task. They are named with an initial of `Pennylane I... .ipynb`.
-2. We implement and present the usual steps of the tutorial [Variational Classifier](https://pennylane.ai/qml/demos/tutorial_variational_classifier/) with our own words. The notebook file is named `Task 2. Variational_Classifier.ipynb`.
+2. We implement and present the usual steps of the tutorial [Variational Classifier](https://pennylane.ai/qml/demos/tutorial_variational_classifier/) with our own words. The notebook file is named `Task 2. Variational_Classifier.ipynb`. Necessary data is in the directory `variational_classifier`.
 3. We implement and present our steps in a notebook and comment on the important steps for the tutorial [Quanvolutional Neural Networks](https://pennylane.ai/qml/demos/tutorial_quanvolution/). The notebook file is named `Task 3. Quanvolutional_Neural_Networks.ipynb`.
 
 In this project, we, `Myanmar Youths`, reproduce the PennyLane tutorials the way we understand. In future, we hope to spread the quantum knowledge and the PennyLane library among quantum-computing enthusiasts from Myanmar. 
@@ -56,7 +56,7 @@ To achieve our goal, we consider to-
 - translate them into the *Burmese* language.
 
 However, we did not achieve our goal in time as our translation process is not finished. But this process will be continued after the project submission.
-All necessary code files and any additional information required to judge our project solution are included in the repository. 
+All necessary code files and any additional information required to judge our project solution are included in the repository.
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
