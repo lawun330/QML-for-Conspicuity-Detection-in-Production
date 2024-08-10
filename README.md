@@ -47,7 +47,7 @@ With limited internet access and time, we finished three of the five project del
 1. We finish the codebook sections “Introduction to Quantum Computing”, “Single-Qubit
  Gates” and “Circuits with Many Qubits” from the [PennyLane Codebook](https://pennylane.ai/codebook/). The repository contains the corresponding notebooks for this task. They are named with an initial of `Pennylane I... .ipynb`.
 2. We implement and present the usual steps of the tutorial [Variational Classifier](https://pennylane.ai/qml/demos/tutorial_variational_classifier/) with our own words. The notebook file is named `Task 2. Variational_Classifier.ipynb`. Necessary data is in the directory `variational_classifier`.
-3. We implement and present our steps in a notebook and comment on the important steps for the tutorial [Quanvolutional Neural Networks](https://pennylane.ai/qml/demos/tutorial_quanvolution/). The notebook file is named `Task 3. Quanvolutional_Neural_Networks.ipynb`.
+3. We implement and present our steps in a notebook and comment on the important steps for the tutorial [Quanvolutional Neural Networks](https://pennylane.ai/qml/demos/tutorial_quanvolution/). The notebook file is named `Task 3. Quanvolutional_Neural_Networks.ipynb` and the directory `quanvolution` contains quantum pre-processed data.
 
 In this project, we, `Myanmar Youths`, reproduce the PennyLane tutorials the way we understand. In future, we hope to spread the quantum knowledge and the PennyLane library among quantum-computing enthusiasts from Myanmar. 
 To achieve our goal, we consider to-
