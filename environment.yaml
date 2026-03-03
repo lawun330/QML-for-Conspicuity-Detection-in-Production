@@ -174,4 +174,3 @@ dependencies:
       - werkzeug==3.0.3
       - widgetsnbextension==4.0.11
       - wrapt==1.16.0
-prefix: C:\Users\ASUS\anaconda3\envs\womanium_conspicuity_detection_env
